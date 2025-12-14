@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atexy4ba&label=Profile views&color=0e75b6&style=flat" alt="atexy4ba" /> </p>
 
-- 🔭 I'm currently working on **a Startup **
+- 🔭 I'm currently working on a Personal Projects and some Freelance
 
-- 🌱 I'm currently learning **Next.js and TypeScript **
+- 🌱 I'm currently learning Next.js and TypeScript
 
-- 📫 How to reach me **dahmanitariqmohamed0@gmail.com**
+- 📫 How to reach me dahmanitariqmohamed0@gmail.com or instagram : @jeunecraack
 
 - ⚡ Fun fact **they call me Jeune Crack**
 
