@@ -1,28 +1,144 @@
-# Hi 👋, I'm Dahmani Mohamed Tariq
+<div align="center">
 
-### A passionate Frontend developer and Web Designer
+```
+ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
+ ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
+ ██║      ██████╔╝███████║██║     █████╔╝ 
+ ██║      ██╔══██╗██╔══██║██║     ██╔═██╗ 
+ ╚██████╗ ██║  ██║██║  ██║╚██████╗██║  ██╗
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atexy4ba&label=Profile views&color=0e75b6&style=flat" alt="atexy4ba" /> </p>
+# Hey there! I'm **Dahmani Mohamed Tariq** 👋
+### `< Frontend Developer />` · `{ UI/UX Designer }` · `[ Jeune Crack ]`
 
-- 🔭 I'm currently working on a Personal Projects and some Freelance
+<img src="https://komarev.com/ghpvc/?username=atexy4ba&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20in-Algeria%20🇩🇿-blue?style=for-the-badge" />
 
-- 🌱 I'm currently learning Next.js and TypeScript
+</div>
 
-- 📫 How to reach me dahmanitariqmohamed0@gmail.com or instagram : @jeunecraack
+---
 
-- ⚡ Fun fact **they call me Jeune Crack**
+## 🧠 About Me
 
-- 👨‍💻 All of my projects are available at **[https://www.behance.net/dahmanimohamed4](https://www.behance.net/dahmanimohamed4)**
+```yaml
+name: Dahmani Mohamed Tariq
+alias: Jeune Crack
+location: Algeria 🇩🇿
+role: Frontend Developer & Web Designer
+current_focus:
+  - Next.js
+  - TypeScript
+  - Personal & Freelance Projects
+available_for: Freelance · Collaboration · Full-time Roles
+portfolio: https://www.behance.net/dahmanimohamed4
+contact: dahmanitariqmohamed0@gmail.com
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/atexy4ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="atexy4ba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dahmani-mohamed-tariq-6b8903287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dahmani-mohamed-tariq-6b8903287/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jeunecraack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeunecraack/" height="30" width="40" /></a>
-<a href="https://behance.net/https://www.behance.net/dahmanimohamed4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dahmanimohamed4" height="30" width="40" /></a>
-<a href="https://discord.gg/t444riq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t444riq" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+## 🚀 What I'm Up To
 
+| 🔭 | Currently working on **Personal Projects & Freelance** |
+|---|---|
+| 🌱 | Learning **Next.js** & **TypeScript** |
+| 💡 | Always exploring new tools in the **design × dev** space |
+| 🎯 | Building pixel-perfect, performance-first interfaces |
+| ⚡ | Fun fact: They call me **Jeune Crack** |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🖌️ Design Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 Data & AI
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atexy4ba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atexy4ba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atexy4ba&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=atexy4ba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dahmanimohamed4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahmani-mohamed-tariq-6b8903287/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atexy4ba)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeunecraack/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t444riq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahmanitariqmohamed0@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Motto
+
+> *"First, solve the problem. Then, write the code."*
+
+---
+
+*Thanks for stopping by — let's build something great together! 🚀*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
