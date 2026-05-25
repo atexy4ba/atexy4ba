@@ -1,16 +1,20 @@
-<div align="center">
-
-```
- ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
- ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
- ██║      ██████╔╝███████║██║     █████╔╝ 
- ██║      ██╔══██╗██╔══██║██║     ██╔═██╗ 
- ╚██████╗ ██║  ██║██║  ██║╚██████╗██║  ██╗
-  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
-
 # Hey there! I'm **Dahmani Mohamed Tariq** 👋
-### `< Frontend Developer />` · `{ UI/UX Designer }` · `[ Jeune Crack ]`
+### `< Frontend Developer />` · `{ UI/UX Designer }`
+
+```
+             ██╗███████╗██╗   ██╗███╗   ██╗███████╗
+             ██║██╔════╝██║   ██║████╗  ██║██╔════╝
+             ██║█████╗  ██║   ██║██╔██╗ ██║█████╗  
+        ██   ██║██╔══╝  ██║   ██║██║╚██╗██║██╔══╝  
+        ╚█████╔╝███████╗╚██████╔╝██║ ╚████║███████╗
+         ╚════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+       ██████╗██████╗  █████╗  ██████╗██╗  ██╗   
+      ██╔════╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝   
+      ██║     ██████╔╝███████║██║     █████╔╝    
+      ██║     ██╔══██╗██╔══██║██║     ██╔═██╗    
+      ╚██████╗██║  ██║██║  ██║╚██████╗██║  ██╗   
+       ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝  
+```
 
 <img src="https://komarev.com/ghpvc/?username=atexy4ba&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -29,13 +33,10 @@ name: Dahmani Mohamed Tariq
 alias: Jeune Crack
 location: Algeria 🇩🇿
 role: Frontend Developer & Web Designer
-current_focus:
-  - Next.js
-  - TypeScript
-  - Personal & Freelance Projects
+company:
+  name: Doxa
+  position: Co-Founder & CEO
 available_for: Freelance · Collaboration · Full-time Roles
-portfolio: https://www.behance.net/dahmanimohamed4
-contact: dahmanitariqmohamed0@gmail.com
 ```
 
 ---
@@ -44,6 +45,7 @@ contact: dahmanitariqmohamed0@gmail.com
 
 | 🔭 | Currently working on **Personal Projects & Freelance** |
 |---|---|
+| 🏢 | Co-Founder & CEO at **Doxa** |
 | 🌱 | Learning **Next.js** & **TypeScript** |
 | 💡 | Always exploring new tools in the **design × dev** space |
 | 🎯 | Building pixel-perfect, performance-first interfaces |
@@ -59,6 +61,7 @@ contact: dahmanitariqmohamed0@gmail.com
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🖌️ Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -69,21 +72,14 @@ contact: dahmanitariqmohamed0@gmail.com
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 Data & AI
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhIMTF2OHptNCAwaC0yVjhoMnY4eiIvPjwvc3ZnPg==&logoColor=white)
 
 ---
 
@@ -99,16 +95,6 @@ contact: dahmanitariqmohamed0@gmail.com
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atexy4ba&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=atexy4ba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
