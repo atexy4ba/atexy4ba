@@ -66,19 +66,15 @@ available_for: Freelance · Collaboration · Full-time Roles
 ---
 
 ## 📊 GitHub Stats
+ 
+| Stats | Top Languages |
+|:---:|:---:|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atexy4ba&theme=tokyonight) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atexy4ba&theme=tokyonight) |
+ 
+| Streak |
+|:---:|
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=atexy4ba&theme=tokyonight&hide_border=true&background=0D1117) |
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atexy4ba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atexy4ba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atexy4ba&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
