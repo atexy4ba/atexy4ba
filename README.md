@@ -1,6 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&animation=fadeIn&fontAlignY=35&7C%20CEO%20of%20Doxa&descAlignY=55&descSize=18)
 
 
 # Hey there! I'm **Dahmani Mohamed Tariq** 👋
