@@ -35,18 +35,6 @@ available_for: Freelance · Collaboration · Full-time Roles
 
 ---
 
-## 🚀 What I'm Up To
-
-| 🔭 | Currently working on **Personal Projects & Freelance** |
-|---|---|
-| 🏢 | Co-Founder & CEO at **Doxa** |
-| 🌱 | Learning **Next.js** & **TypeScript** |
-| 💡 | Always exploring new tools in the **design × dev** space |
-| 🎯 | Building pixel-perfect, performance-first interfaces |
-| ⚡ | Fun fact: They call me **Jeune Crack** |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend & Design
