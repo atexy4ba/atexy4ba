@@ -1,12 +1,20 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Jeune%20Crack&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Designer%20%7C%20CEO%20of%20Doxa&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&animation=fadeIn&fontAlignY=35&7C%20CEO%20of%20Doxa&descAlignY=55&descSize=18)
 
+```
+ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
+ ██╔════╝ ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
+ ██║      ██████╔╝███████║██║     █████╔╝ 
+ ██║      ██╔══██╗██╔══██║██║     ██╔═██╗ 
+ ╚██████╗ ██║  ██║██║  ██║╚██████╗██║  ██╗
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
 # Hey there! I'm **Dahmani Mohamed Tariq** 👋
 ### `< Frontend Developer />` · `{ UI/UX Designer }`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Web+Designer;Co-Founder+%26+CEO+of+Doxa;Next.js+%7C+React+%7C+TypeScript;They+call+me+Jeune+Crack+⚡" alt="Typing SVG" />
+
 
 ```
      ██╗███████╗██╗   ██╗███╗   ██╗███████╗    ██████╗██████╗  █████╗  ██████╗██╗  ██╗   
@@ -39,18 +47,6 @@ company:
   position: Co-Founder & CEO
 available_for: Freelance · Collaboration · Full-time Roles
 ```
-
----
-
-## 🚀 What I'm Up To
-
-| 🔭 | Currently working on **Personal Projects & Freelance** |
-|---|---|
-| 🏢 | Co-Founder & CEO at **Doxa** |
-| 🌱 | Learning **Next.js** & **TypeScript** |
-| 💡 | Always exploring new tools in the **design × dev** space |
-| 🎯 | Building pixel-perfect, performance-first interfaces |
-| ⚡ | Fun fact: They call me **Jeune Crack** |
 
 ---
 
@@ -94,21 +90,6 @@ available_for: Freelance · Collaboration · Full-time Roles
 |:---:|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=atexy4ba&theme=tokyonight&hide_border=true&background=0D1117) |
 
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atexy4ba/atexy4ba/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atexy4ba/atexy4ba/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/atexy4ba/atexy4ba/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atexy4ba&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 ---
 
